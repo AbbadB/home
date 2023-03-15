@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.a2082f14.css",
+    "main.js": "/home/static/js/main.786f843b.js",
+    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
+    "static/media/brunoabbad.png": "/home/static/media/brunoabbad.149ce8deeb38203b61ca.png",
+    "index.html": "/home/index.html",
+    "main.a2082f14.css.map": "/home/static/css/main.a2082f14.css.map",
+    "main.786f843b.js.map": "/home/static/js/main.786f843b.js.map",
+    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2082f14.css",
+    "static/js/main.786f843b.js"
+  ]
+}
