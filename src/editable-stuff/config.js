@@ -47,7 +47,7 @@ const about = {
   imageSize: 375,
   message:
     "I am a Bachelor of Information Systems and a Data Engineer passionate about creating data-driven solutions that help companies make better and more informed decisions. Currently, I work at Capgemini, a global leader in consulting, digital transformation, technology, and engineering services. I have excellent programming skills in Python and SQL, especially in the Big Data environment, and I am capable of working both in teams and independently to complete projects. Additionally, I hold European citizenship, which allows me to work throughout the European Union.",
-  resume: "https://drive.google.com/file/d/1tjhJRZXOu_7lcf4rcFtz-FA9OzOTPPgC/view",
+  resume: "https://drive.google.com/file/d/1rAKmoVf9KJpk6-E_cmlU59cE0ilCzuxx/view",
 };
 
 // PROJECTS SECTION
@@ -154,8 +154,14 @@ const certifications = {
     {
       role: 'Academy Accreditation - Databricks Lakehouse Fundamentals',// Here Add Company Name
       companylogo: require('../assets/img/lakehouse-fundamentals.png'),
-      date: 'February 2022 – February 2023',
+      //date: 'February 2022 – February 2023',
       link: 'https://credentials.databricks.com/93211e43-8c2b-4453-a9fc-fcd0723bed42',
+    },
+    {
+      role: 'Apache Airflow Fundamentals',// Here Add Company Name
+      companylogo: require('../assets/img/airflow.png'),
+      //date: 'February 2022 – February 2023',
+      link: 'https://www.credly.com/earner/earned/badge/ca8e8353-ab86-473f-9255-105895185ff0',
     },
   ]
 }
