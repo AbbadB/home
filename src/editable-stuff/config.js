@@ -161,7 +161,7 @@ const certifications = {
       role: 'Apache Airflow Fundamentals',// Here Add Company Name
       companylogo: require('../assets/img/airflow.png'),
       //date: 'February 2022 – February 2023',
-      link: 'https://www.credly.com/earner/earned/badge/ca8e8353-ab86-473f-9255-105895185ff0',
+      link: 'https://www.credly.com/badges/ca8e8353-ab86-473f-9255-105895185ff0/public_url',
     },
   ]
 }
